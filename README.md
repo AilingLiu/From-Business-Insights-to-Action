@@ -1,3 +1,5 @@
+Building predictive model to forcast business growth in terms of product and customer status, in below topics:
+
 * Trending Products
 * Products Recommendation User-Based and Item-Based
 * Customer Segmentation by CLV and Policy Age
