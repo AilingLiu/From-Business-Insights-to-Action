@@ -3,6 +3,7 @@ Building predictive model to forcast business growth in terms of product and cus
 * Trending Products
 * Products Recommendation User-Based and Item-Based
 * Customer Segmentation by CLV and Policy Age
+* Others
 
 References:
 -  [Hands-On Data Science for Marketing](https://learning.oreilly.com/library/view/hands-on-data-science/9781789346343/)
