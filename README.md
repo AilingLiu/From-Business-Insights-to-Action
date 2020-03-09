@@ -2,6 +2,7 @@ Building predictive model to forcast business growth in terms of product and cus
 
 * Products Recommendation User-Based and Item-Based
 * Customer Segmentation by CLV and Policy Age
+* Customer Segmentation by RFM and KMeans Clustering
 * Others
 
 References:
